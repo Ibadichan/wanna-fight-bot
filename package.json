@@ -1,0 +1,16 @@
+{
+  "name": "wanna-fight-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ibadichan/wanna-fight-bot.git",
+  "author": "Ivan Badicean <badican01117@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "grammy": "^1.35.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
